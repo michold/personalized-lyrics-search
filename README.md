@@ -6,3 +6,4 @@ an app that will let you search for lyrics of songs that you know.
 
 1. bundle install
 2. foreman start
+3. add you last fm API token to `settings.yml`
