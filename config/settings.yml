@@ -1,1 +1,3 @@
-lastfm_api_token: ur_token_here
+lastfm:
+  api_key: ur_key_here
+  api_secret: ur_secret_here
